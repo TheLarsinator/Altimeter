@@ -194,7 +194,7 @@
         jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.0"
-        sha1="b8d9e9ba78a91482feb9d82b9d5ca465731ce43c">
+        sha1="689605acfb642897ce7510ad86950b2a7c6b1dc7">
         <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_94bc155a0374129350d9c4310e60143262f1b8cc\classes.dex" />
     </item>
     <item
@@ -355,7 +355,7 @@
         jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.0"
-        sha1="0a0ed10b441f9e340982f0cc64ccb7c36e511a7f">
+        sha1="5f42138e4d632a915b460f848cccfe9ea1a45df6">
         <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57125921f2a25a1542569289e6bf139fa238eff5\classes.dex" />
     </item>
     <item

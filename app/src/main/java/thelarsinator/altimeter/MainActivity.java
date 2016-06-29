@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
 
         //Set the textView
         textView = (TextView) findViewById(R.id.heigth);
+        //textView.setText("1000 M");
 
         // Create an instance of GoogleAPIClient.
         if (mGoogleApiClient == null) {
