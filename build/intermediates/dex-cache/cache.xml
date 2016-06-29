@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_24d83ed16406ed7c6df7fad7fa9abd0c2c12e94e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_59a5efedc01a286f8d1c8bc08d324d011463b2fd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_b243b41134017537230c8faf3a890e8164421fd3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_6552cbd92d639fbacc5ddb880517c9ae6a221c94\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_754a3610b6053762fe87eb6a3fd532fb710f5ded\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_bb6069647cceb66a0266b74208d877d109cf12fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_de834509ecebda51c02810ce54841bf09eeef4e3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_c4b91141a2b77239d452466f1b7a5a75738c0339\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_316ed29f06d0ca5661f0110fb9d7d3a5c9e8a3f3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_839ca9b95a292686f4392bf43ebfd1aee0661ec3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_4bc027d8edd5a8a300e201dee37c40a05f0f6dcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_f6ca791a0382b437010754b3c4903a3683ede30b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_ab28104dbf5c9474e3f884071ae45fda31b9315f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_02861cf799ef323ed000f20f1ce299dacc83867a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_42696958997d6f3406960a98660c35d826eedb70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_be1ac6e3be85cc6bb1dfd1fc269654bdf3c50907\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_9df0a682ebb7cad3510a03d7f109b5a84c33e4b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_289dd9c5aca08a0118e88da6d852999677da5e76\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_c7d9e47cce765cdb9da4a486b2817ebcb249c758\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_983be9ed5714bd87835722e2e7d3b182cf21a0f5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_d9cadeef1cbd776e63b7a87fdc250b36f6fe682b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_91e69bdb60d13e6e77d26534e1345c634c435d32\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_713cdfe12c636515ffdc42b16acea7e24be3a073\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_5a9c9ed9c767e766811b2fe423eacb418243bb08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_abab2ee40b92dfca2846fec1780b1cf875e2e881\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_1e80306f22c68fa16209b01bf5912afc0bf2f200\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_b1f71f8ef9cab29b4e1bf2b36a4b4ab755a6dac3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b8d9e9ba78a91482feb9d82b9d5ca465731ce43c">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_94bc155a0374129350d9c4310e60143262f1b8cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_7bf0d3e1a6698ebbd0057c679b7c5f29425564a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_2b339d4ade3f534f3d03b9d0fec2e0713fac32e6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_f0ab848a8b644ce6668ff47f4eda94de42bd0d61\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_59e39b84a0c4dfb038782078a210bb6735e5843d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_34cfda814bb7882c0b02fa8036636f1a94085a8e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_ce98217b5b6484953288062829a04252b48950c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_0cfd7cb00b9a872d32519eb790d7506950cf4fc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_79c41504fe86d5c22883160c9854032d9b6e0ef5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_a541a2d25ce93189461e91fa24b848f8a5d4c06f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_6a072dc4ff6c28361a625a32330080c94d30ead4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_c8da53a31adf549c3616faa73e779ac3fe7af1b4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_7fe7e4157e488df25f2196116e9c0ecba0b33b7c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_c02a475aded40850f36cef2142ccf686c24dad0b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_0c0b14c7cb6210d2aba7b1374463fb79d3016cf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_7b7e20c021a7a956e97cb19a91a033081c638343\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_64608e2063649dc14ba559589a1c47f9f933ec2a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_9caf09dc701fddc018bcd531423a03c94501f9cb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_91493b499399efc170e49315eaa3d9423e1b4921\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_044c3341e09a63c3f6e270bde649c6bb7831ea70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_5f8cb6e545939e1cf2bee4675588fc3dd3864809\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_24d25a30da91359d858cabe3a3cf7254b20c92fe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_7393596d99b94cb0739d99b6602dfe1f0643a83d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0a0ed10b441f9e340982f0cc64ccb7c36e511a7f">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57125921f2a25a1542569289e6bf139fa238eff5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_b67c1367b106f57d925585a16e5f2012d24652f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Lars\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Lars\AndroidStudioProjects\AltiMeter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_9fcbcac340e23794da5c3dbc0164c00a5741e351\classes.dex" />
+    </item>
+
+</items>
